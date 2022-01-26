@@ -4,6 +4,7 @@
 
 ---
 Saker jag har lärt mig i denna kursen som summerar denna uppgiften.
+----
 **Termologi** 
 - Branch
 - Marge
