@@ -1,11 +1,12 @@
 
 body {
-  background: #44AA44;
-  background-color: #44AA44;
+  background-color: #a6abac;
 }
 nav{
    border: solid black 2px;
    padding: 1rem;
+   background-color: lavender;
+   
    
   
    display: flex;
@@ -39,6 +40,7 @@ a {
 
 }
 footer {
+   background-color: lavender;
    
     border: black solid 2px;
     text-align: center;
