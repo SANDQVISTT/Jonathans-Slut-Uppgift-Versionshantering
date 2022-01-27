@@ -1,5 +1,5 @@
 # Hej! Detta är sista uppgiften i Versionshantering. 
-### Detta arbetet ser ni hur [SANDQVISTT](https://github.com/SANDQVISTT) (Jag) har FORK:at och CLONE:at [Johan Aftonstråle](https://github.com/johan-at-grit) ´s arbete.
+### Detta arbetet ser ni hur [SANDQVISTT](https://github.com/SANDQVISTT) (Jag) har FORK:at sedan har jag  CLONE:at [Johan Aftonstråle](https://github.com/johan-at-grit) ´s arbete.
 ### Ni kan se att jag förklarar vad versionshantering är och en massa **termologi** är för något, inne på projekt kan ni se hur jag har arbetat i stegvis och  fått struktur i mitt arbete för att få en enklare förståelse vad jag ska göra i projektet och där jag kan dela upp uppgifterna i ett grupparbete.
 
 ---
